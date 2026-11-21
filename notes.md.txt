@@ -9,3 +9,15 @@
 
 ## Ghi chú
 Dự án sử dụng dữ liệu giả lập, không chứa thông tin cá nhân.
+
+## Kết quả
+
+Sau quá trình thực hành, dự án đã đạt được
+các kết quả sau:
+
+1. Tạo thành công repository để lưu trữ dự án.
+2. Biết cách tạo và quản lý các commit.
+3. Tạo được branch riêng để chỉnh sửa nội dung.
+4. Biết cách đồng bộ dữ liệu với GitHub.
+5. Hiểu được vai trò của quản lý phiên bản
+   trong quá trình học tập và làm việc nhóm.
