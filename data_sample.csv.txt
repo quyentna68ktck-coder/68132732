@@ -1,0 +1,7 @@
+
+id,task,status,progress
+1,Create repository,Completed,100
+2,Write README,Completed,100
+3,Create notes,In progress,70
+4,Review project,Pending,0
+5,Upload to GitHub,Pending,0
